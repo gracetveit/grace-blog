@@ -9,7 +9,8 @@ techs used:
 - Sequelize
 
 ## todo
-- [ ] Map Schema
+- [x] Map Schema
+- [ ] init db
 - [ ] Write backend routes
 
 ## Schema
