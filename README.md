@@ -5,15 +5,19 @@ backend, simple HTML and CSS on the frontend. Parses markdown formatted blog
 posts w/ tags
 
 techs used:
+
 - Express
 - Sequelize
 
 ## todo
+
 - [x] Map Schema
 - [ ] init db
+  - [ ] Create tags model and relations
 - [ ] Write backend routes
 
 ## Schema
+
 ```
 posts
 -
